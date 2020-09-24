@@ -12,3 +12,7 @@
     font-size: 16pt;
     background-color: #8888ff;
 }
+
+div:hover {
+    font-weight: bold;
+}
